@@ -1,0 +1,355 @@
+,Occupation,Occupation_category,Group,Entropy
+0,Chief executives,Management occupations,0,1.0991778059840738
+1,General and operations managers,Management occupations,0,1.1762523636532394
+2,Advertising and promotions managers,Management occupations,2,1.1726394979955184
+3,Marketing managers,Management occupations,1,1.1457791569004558
+4,Sales managers,Management occupations,1,1.132478542506249
+5,Public relations and fundraising managers,Management occupations,2,1.0505112207186311
+6,Administrative services managers,Management occupations,2,1.1200080804024322
+7,Facilities managers,Management occupations,2,1.0854870972907136
+8,Computer and information systems managers,Management occupations,0,1.23650175700191
+9,Financial managers,Management occupations,0,1.230434507138578
+10,Human resources managers,Management occupations,1,1.2366223446184461
+11,Training and development managers,Management occupations,2,1.0760194043198732
+12,Industrial production managers,Management occupations,1,1.1775688070549983
+13,Purchasing managers,Management occupations,1,1.1565510625695403
+14,"Transportation, storage, and distribution managers",Management occupations,1,1.22920967211628
+15,"Farmers, ranchers, and other agricultural managers",Management occupations,1,0.9346957969837032
+16,Construction managers,Management occupations,0,1.1145449837683752
+17,Education and childcare administrators,Management occupations,0,1.1876507799527736
+18,Architectural and engineering managers,Management occupations,2,1.1395902259263448
+19,Food service managers,Management occupations,0,1.3511464403005755
+20,Lodging managers,Management occupations,2,1.2916486759694354
+21,Medical and health services managers,Management occupations,0,1.246277165678602
+22,"Property, real estate, and community association managers",Management occupations,0,1.174607163696965
+23,Social and community service managers,Management occupations,1,1.279204968263263
+24,"Managers, all other",Management occupations,0,1.1969212096620032
+25,"Wholesale and retail buyers, except farm products",Business and financial operations occupations,1,1.2354931617502558
+26,"Purchasing agents, except wholesale, retail, and farm products",Business and financial operations occupations,1,1.2278367497114786
+27,"Claims adjusters, appraisers, examiners, and investigators",Business and financial operations occupations,1,1.2989222535082843
+28,Compliance officers,Business and financial operations occupations,1,1.2747647345356377
+29,Cost estimators,Business and financial operations occupations,2,1.1146639632413995
+30,Human resources workers,Business and financial operations occupations,0,1.2629920845030647
+31,"Compensation, benefits, and job analysis specialists",Business and financial operations occupations,2,1.3087283606622453
+32,Training and development specialists,Business and financial operations occupations,1,1.2368318057001009
+33,Logisticians,Business and financial operations occupations,2,1.1843998025395437
+34,Project management specialists,Business and financial operations occupations,0,1.1728634984124118
+35,Management analysts,Business and financial operations occupations,0,1.1752159696989914
+36,"Meeting, convention, and event planners",Business and financial operations occupations,2,1.1118520352695276
+37,Fundraisers,Business and financial operations occupations,2,1.006350576208436
+38,Market research analysts and marketing specialists,Business and financial operations occupations,1,1.172094011228506
+39,"Business operations specialists, all other",Business and financial operations occupations,0,1.2771018585465175
+40,Accountants and auditors,Business and financial operations occupations,0,1.2371426807095327
+41,Property appraisers and assessors,Business and financial operations occupations,2,0.8472405080756118
+42,Budget analysts,Business and financial operations occupations,2,1.35420557852625
+43,Financial and investment analysts,Business and financial operations occupations,1,1.3372490531377053
+44,Personal financial advisors,Business and financial operations occupations,1,1.1546642221250991
+45,Insurance underwriters,Business and financial operations occupations,2,1.2337943491405945
+46,Credit counselors and loan officers,Business and financial operations occupations,1,1.2362987573985575
+47,"Tax examiners and collectors, and revenue agents",Business and financial operations occupations,2,1.1233817540050115
+48,Tax preparers,Business and financial operations occupations,2,1.3139302608621608
+49,Other financial specialists,Business and financial operations occupations,2,1.2311526778307496
+50,Computer systems analysts,Computer and mathematical occupations,1,1.3097992565781436
+51,Information security analysts,Computer and mathematical occupations,1,1.2073658163088157
+52,Computer programmers,Computer and mathematical occupations,1,1.2527478421985148
+53,Software developers,Computer and mathematical occupations,0,1.2816634654349897
+54,Software quality assurance analysts and testers,Computer and mathematical occupations,2,1.3255424306954695
+55,Web developers,Computer and mathematical occupations,2,1.1330903796418335
+56,Web and digital interface designers,Computer and mathematical occupations,2,1.0977186442053475
+57,Computer support specialists,Computer and mathematical occupations,0,1.3011848950549758
+58,Database administrators and architects,Computer and mathematical occupations,2,1.198231842283165
+59,Network and computer systems administrators,Computer and mathematical occupations,1,1.2652521859698918
+60,Computer network architects,Computer and mathematical occupations,2,1.2631297266668715
+61,"Computer occupations, all other",Computer and mathematical occupations,0,1.3128110552891419
+62,Operations research analysts,Computer and mathematical occupations,1,1.2972546137289287
+63,Other mathematical science occupations,Computer and mathematical occupations,1,1.3073472531101582
+64,"Architects, except landscape and naval",Architecture and engineering occupations,1,1.1500082368614488
+65,Aerospace engineers,Architecture and engineering occupations,2,1.266391508994916
+66,Chemical engineers,Architecture and engineering occupations,2,1.106395906922995
+67,Civil engineers,Architecture and engineering occupations,1,1.2145390719342164
+68,Computer hardware engineers,Architecture and engineering occupations,2,1.2833840004112078
+69,Electrical and electronics engineers,Architecture and engineering occupations,1,1.2316433818941581
+70,"Industrial engineers, including health and safety",Architecture and engineering occupations,1,1.1735377814856451
+71,Mechanical engineers,Architecture and engineering occupations,1,1.2081297957880786
+72,"Engineers, all other",Architecture and engineering occupations,0,1.260213531989569
+73,Other drafters,Architecture and engineering occupations,2,1.0770323613362782
+74,Electrical and electronic engineering technologists and technicians,Architecture and engineering occupations,2,1.2585983540697476
+75,"Other engineering technologists and technicians, except drafters",Architecture and engineering occupations,1,1.2371561531037263
+76,Surveying and mapping technicians,Architecture and engineering occupations,2,1.156671648663875
+77,Biological scientists,"Life, physical, and social science occupations",2,1.1830754910710157
+78,Medical scientists,"Life, physical, and social science occupations",2,1.2717881363798234
+79,Chemists and materials scientists,"Life, physical, and social science occupations",2,1.2071767425397761
+80,"Physical scientists, all other","Life, physical, and social science occupations",1,1.2653425612541327
+81,School psychologists,"Life, physical, and social science occupations",2,1.0735776258534298
+82,Other psychologists,"Life, physical, and social science occupations",2,1.111037880225606
+83,Miscellaneous social scientists and related workers,"Life, physical, and social science occupations",2,1.0864623176365888
+84,"Other life, physical, and social science technicians","Life, physical, and social science occupations",1,1.2201746229781716
+85,Occupational health and safety specialists and technicians,"Life, physical, and social science occupations",2,1.255328307872581
+86,Substance abuse and behavioral disorder counselors,Community and social service occupations,2,1.2440601746266786
+87,"Educational, guidance, and career counselors and advisors",Community and social service occupations,1,1.2933533673426518
+88,Mental health counselors,Community and social service occupations,1,1.216364226145382
+89,"Counselors, all other",Community and social service occupations,1,1.3135838999203655
+90,"Child, family, and school social workers",Community and social service occupations,2,1.3558878742900415
+91,Healthcare social workers,Community and social service occupations,2,1.264568012841833
+92,"Social workers, all other",Community and social service occupations,0,1.3572484458974061
+93,Probation officers and correctional treatment specialists,Community and social service occupations,2,1.232909099701541
+94,Social and human service assistants,Community and social service occupations,1,1.2844641184262797
+95,Other community and social service specialists,Community and social service occupations,2,1.4170770519481801
+96,Clergy,Community and social service occupations,1,1.1241622144272112
+97,"Directors, religious activities and education",Community and social service occupations,2,0.996976508085647
+98,"Religious workers, all other",Community and social service occupations,2,1.0334294225357505
+99,Lawyers,Legal occupations,0,1.0651327683954048
+100,"Judges, magistrates, and other judicial workers",Legal occupations,2,1.256859510608432
+101,Paralegals and legal assistants,Legal occupations,1,1.3231671462616656
+102,"Title examiners, abstractors, and searchers",Legal occupations,2,1.1190184703937562
+103,"Legal support workers, all other",Legal occupations,2,1.251587077971299
+104,Postsecondary teachers,"Education, training, and library occupations",0,1.2003664115290003
+105,Preschool and kindergarten teachers,"Education, training, and library occupations",0,1.215083138659522
+106,Elementary and middle school teachers,"Education, training, and library occupations",0,1.1599691230746885
+107,Secondary school teachers,"Education, training, and library occupations",0,1.1039291778463416
+108,Special education teachers,"Education, training, and library occupations",1,1.0894060312992955
+109,Tutors,"Education, training, and library occupations",1,1.2587075995193222
+110,Other teachers and instructors,"Education, training, and library occupations",0,1.2172267479798848
+111,"Archivists, curators, and museum technicians","Education, training, and library occupations",2,1.0003020901108939
+112,Librarians and media collections specialists,"Education, training, and library occupations",2,1.0351622991132645
+113,Teaching assistants,"Education, training, and library occupations",0,1.3122884898869829
+114,Other educational instruction and library workers,"Education, training, and library occupations",2,1.1655136144378972
+115,Artists and related workers,"Arts, design, entertainment, sports, and media occupations",1,1.1487559757771133
+116,Floral designers,"Arts, design, entertainment, sports, and media occupations",2,1.379642555964829
+117,Graphic designers,"Arts, design, entertainment, sports, and media occupations",1,1.1460794730474548
+118,Interior designers,"Arts, design, entertainment, sports, and media occupations",2,1.0068187308897893
+119,Other designers,"Arts, design, entertainment, sports, and media occupations",1,1.1386099390672686
+120,Producers and directors,"Arts, design, entertainment, sports, and media occupations",1,1.1253103967357898
+121,Coaches and scouts,"Arts, design, entertainment, sports, and media occupations",1,1.1511703650139902
+122,Music directors and composers,"Arts, design, entertainment, sports, and media occupations",2,1.205224294046666
+123,Musicians and singers,"Arts, design, entertainment, sports, and media occupations",2,1.2395876010134814
+124,"News analysts, reporters, and journalists","Arts, design, entertainment, sports, and media occupations",2,1.1410933675428236
+125,Public relations specialists,"Arts, design, entertainment, sports, and media occupations",2,1.1808297814932824
+126,Editors,"Arts, design, entertainment, sports, and media occupations",2,1.0005067440462043
+127,Technical writers,"Arts, design, entertainment, sports, and media occupations",2,1.126375884331142
+128,Writers and authors,"Arts, design, entertainment, sports, and media occupations",1,1.092076568710684
+129,Interpreters and translators,"Arts, design, entertainment, sports, and media occupations",2,1.4653737436861063
+130,"Broadcast, sound, and lighting technicians","Arts, design, entertainment, sports, and media occupations",2,1.0515756482106915
+131,Photographers,"Arts, design, entertainment, sports, and media occupations",1,1.2239715206136879
+132,"Television, video, and film camera operators and editors","Arts, design, entertainment, sports, and media occupations",2,1.2269456585021161
+133,Chiropractors,Healthcare practitioners and technical occupations,2,1.0763388287079967
+134,Dentists,Healthcare practitioners and technical occupations,2,1.2006944559958965
+135,Dietitians and nutritionists,Healthcare practitioners and technical occupations,2,1.1772101723461164
+136,Pharmacists,Healthcare practitioners and technical occupations,1,1.230211684883121
+137,Other physicians,Healthcare practitioners and technical occupations,0,1.2625913341337889
+138,Surgeons,Healthcare practitioners and technical occupations,2,1.052395284964001
+139,Physician assistants,Healthcare practitioners and technical occupations,1,1.2360611228905851
+140,Occupational therapists,Healthcare practitioners and technical occupations,2,1.0203724201353004
+141,Physical therapists,Healthcare practitioners and technical occupations,1,1.1144524780442682
+142,Respiratory therapists,Healthcare practitioners and technical occupations,2,1.2489656598112848
+143,Speech-language pathologists,Healthcare practitioners and technical occupations,2,0.9376036544058953
+144,"Therapists, all other",Healthcare practitioners and technical occupations,1,1.1976217029794742
+145,Veterinarians,Healthcare practitioners and technical occupations,2,0.9279187926886693
+146,Registered nurses,Healthcare practitioners and technical occupations,0,1.2450531296935043
+147,Nurse practitioners,Healthcare practitioners and technical occupations,1,1.08118882107141
+148,Clinical laboratory technologists and technicians,Healthcare practitioners and technical occupations,1,1.349238503540236
+149,Dental hygienists,Healthcare practitioners and technical occupations,1,1.0767309975604253
+150,Cardiovascular technologists and technicians,Healthcare practitioners and technical occupations,2,1.3236297990012496
+151,Diagnostic medical sonographers,Healthcare practitioners and technical occupations,2,1.11982444296732
+152,Radiologic technologists and technicians,Healthcare practitioners and technical occupations,1,1.1642571648109792
+153,Emergency medical technicians,Healthcare practitioners and technical occupations,1,1.2429164536628527
+154,Paramedics,Healthcare practitioners and technical occupations,2,0.9566487957881867
+155,Pharmacy technicians,Healthcare practitioners and technical occupations,1,1.3637868630412247
+156,Psychiatric technicians,Healthcare practitioners and technical occupations,2,1.3360272822799009
+157,Surgical technologists,Healthcare practitioners and technical occupations,2,1.28333687109303
+158,Veterinary technologists and technicians,Healthcare practitioners and technical occupations,2,1.145069809738428
+159,Dietetic technicians and ophthalmic medical technicians,Healthcare practitioners and technical occupations,2,1.2423635381438813
+160,Licensed practical and licensed vocational nurses,Healthcare practitioners and technical occupations,0,1.3100247442974644
+161,Medical records specialists,Healthcare practitioners and technical occupations,1,1.2372440978590942
+162,"Opticians, dispensing",Healthcare practitioners and technical occupations,2,1.2847215553483737
+163,Miscellaneous health technologists and technicians,Healthcare practitioners and technical occupations,1,1.3838985091582243
+164,Other healthcare practitioners and technical occupations,Healthcare practitioners and technical occupations,2,1.0709925255986057
+165,Home health aides,Healthcare support occupations,0,1.4808842376359326
+166,Personal care aides,Healthcare support occupations,0,1.455381808374041
+167,Nursing assistants,Healthcare support occupations,0,1.3769471155472364
+168,Orderlies and psychiatric aides,Healthcare support occupations,2,1.3772023751773819
+169,Physical therapist assistants and aides,Healthcare support occupations,2,1.1871872487441346
+170,Massage therapists,Healthcare support occupations,1,1.3691916894651766
+171,Dental assistants,Healthcare support occupations,1,1.3623274774045009
+172,Medical assistants,Healthcare support occupations,0,1.3792796833936023
+173,Veterinary assistants and laboratory animal caretakers,Healthcare support occupations,2,1.1256746033455851
+174,Phlebotomists,Healthcare support occupations,1,1.41848921039559
+175,Other healthcare support workers,Healthcare support occupations,1,1.3740951568871744
+176,First-line supervisors of police and detectives,Protective service occupations,2,1.1383840258036635
+177,First-line supervisors of security workers,Protective service occupations,2,1.337740663754608
+178,Firefighters,Protective service occupations,1,1.1600602802812545
+179,Correctional officers and jailers,Protective service occupations,1,1.3139447823524042
+180,Detectives and criminal investigators,Protective service occupations,2,1.2074736287841938
+181,Police officers,Protective service occupations,0,1.1943843963961496
+182,Private detectives and investigators,Protective service occupations,2,1.279417116315961
+183,Security guards and gambling surveillance officers,Protective service occupations,0,1.414973495413681
+184,Crossing guards and flaggers,Protective service occupations,2,1.2192506105017495
+185,Other protective service workers,Protective service occupations,2,1.1565505966288938
+186,Chefs and head cooks,Food preparation and serving related occupations,1,1.4537255258912651
+187,First-line supervisors of food preparation and serving workers,Food preparation and serving related occupations,0,1.3659038727194843
+188,Cooks,Food preparation and serving related occupations,0,1.442791994363281
+189,Food preparation workers,Food preparation and serving related occupations,0,1.4107982798519123
+190,Bartenders,Food preparation and serving related occupations,1,1.216897471859615
+191,Fast food and counter workers,Food preparation and serving related occupations,0,1.3713155803020123
+192,Waiters and waitresses,Food preparation and serving related occupations,0,1.350699527927269
+193,"Food servers, nonrestaurant",Food preparation and serving related occupations,1,1.382944305864264
+194,Dining room and cafeteria attendants and bartender helpers,Food preparation and serving related occupations,1,1.3932854342372494
+195,Dishwashers,Food preparation and serving related occupations,1,1.4354274252048844
+196,"Hosts and hostesses, restaurant, lounge, and coffee shop",Food preparation and serving related occupations,1,1.351426317682751
+197,First-line supervisors of housekeeping and janitorial workers,Building and grounds cleaning and maintenance occupations,1,1.317128095901484
+198,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",Building and grounds cleaning and maintenance occupations,1,1.213252962010618
+199,Janitors and building cleaners,Building and grounds cleaning and maintenance occupations,0,1.4009497210197872
+200,Maids and housekeeping cleaners,Building and grounds cleaning and maintenance occupations,0,1.4395308660758621
+201,Pest control workers,Building and grounds cleaning and maintenance occupations,2,1.2688470357985735
+202,Landscaping and groundskeeping workers,Building and grounds cleaning and maintenance occupations,0,1.3197599658527692
+203,Tree trimmers and pruners,Building and grounds cleaning and maintenance occupations,2,1.2003006460717818
+204,Supervisors of personal care and service workers,Personal care and service occupations,1,1.3414357733905757
+205,Animal trainers,Personal care and service occupations,2,1.009988198519418
+206,Animal caretakers,Personal care and service occupations,1,1.1714378693374892
+207,Gambling services workers,Personal care and service occupations,2,1.414893917051943
+208,Other entertainment attendants and related workers,Personal care and service occupations,1,1.25573748683307
+209,Barbers,Personal care and service occupations,2,1.4740973245068056
+210,"Hairdressers, hairstylists, and cosmetologists",Personal care and service occupations,0,1.2770996428293255
+211,Manicurists and pedicurists,Personal care and service occupations,1,1.2718121929917612
+212,Skincare specialists,Personal care and service occupations,2,1.331441426921427
+213,"Baggage porters, bellhops, and concierges",Personal care and service occupations,2,1.4788344459195781
+214,Childcare workers,Personal care and service occupations,0,1.3400923874182276
+215,Exercise trainers and group fitness instructors,Personal care and service occupations,1,1.2681341905475703
+216,Recreation workers,Personal care and service occupations,1,1.2373426447512081
+217,"Personal care and service workers, all other",Personal care and service occupations,2,1.2937078317062802
+218,First-line supervisors of retail sales workers,Sales and related occupations,0,1.2641964187857888
+219,First-line supervisors of non-retail sales workers,Sales and related occupations,0,1.1857935031510092
+220,Cashiers,Sales and related occupations,0,1.4011852566378251
+221,Counter and rental clerks,Sales and related occupations,2,1.3669058179553815
+222,Parts salespersons,Sales and related occupations,2,1.121333209091518
+223,Retail salespersons,Sales and related occupations,0,1.313317721973303
+224,Advertising sales agents,Sales and related occupations,2,1.1612009922910294
+225,Insurance sales agents,Sales and related occupations,0,1.239456181469209
+226,"Securities, commodities, and financial services sales agents",Sales and related occupations,1,1.1988906600696638
+227,Travel agents,Sales and related occupations,2,1.1301832722558847
+228,"Sales representatives of services, except advertising, insurance, financial services, and travel",Sales and related occupations,1,1.1580286331203786
+229,"Sales representatives, wholesale and manufacturing",Sales and related occupations,0,1.1196612447977117
+230,Real estate brokers and sales agents,Sales and related occupations,0,1.1656297744444641
+231,"Door-to-door sales workers, news and street vendors, and related workers",Sales and related occupations,2,1.1661777931963326
+232,"Sales and related workers, all other",Sales and related occupations,1,1.2596904130287443
+233,First-line supervisors of office and administrative support workers,Office and administrative support occupations,0,1.2316892666102963
+234,Bill and account collectors,Office and administrative support occupations,2,1.3086515308939457
+235,Billing and posting clerks,Office and administrative support occupations,0,1.2873220878915996
+236,"Bookkeeping, accounting, and auditing clerks",Office and administrative support occupations,0,1.172365526504227
+237,Payroll and timekeeping clerks,Office and administrative support occupations,1,1.4071507525369478
+238,Tellers,Office and administrative support occupations,1,1.3292231368679666
+239,"Financial clerks, all other",Office and administrative support occupations,2,1.2728729773836822
+240,"Court, municipal, and license clerks",Office and administrative support occupations,2,1.2143906821206738
+241,Customer service representatives,Office and administrative support occupations,0,1.362728613759061
+242,"Eligibility interviewers, government programs",Office and administrative support occupations,2,1.4429257477018531
+243,File Clerks,Office and administrative support occupations,1,1.3117290364432814
+244,"Hotel, motel, and resort desk clerks",Office and administrative support occupations,1,1.4567709937842177
+245,"Interviewers, except eligibility and loan",Office and administrative support occupations,1,1.3727734529892
+246,"Library assistants, clerical",Office and administrative support occupations,2,1.0852881851719989
+247,Loan interviewers and clerks,Office and administrative support occupations,1,1.2815082524142358
+248,Order clerks,Office and administrative support occupations,2,1.3502815287495036
+249,Receptionists and information clerks,Office and administrative support occupations,0,1.3378594205771863
+250,Reservation and transportation ticket agents and travel clerks,Office and administrative support occupations,2,1.3885476091628481
+251,"Information and record clerks, all other",Office and administrative support occupations,2,1.280345149329092
+252,Couriers and messengers,Office and administrative support occupations,0,1.3732823166812314
+253,Public safety telecommunicators,Office and administrative support occupations,2,1.1773428057685433
+254,"Dispatchers, except police, fire, and ambulance",Office and administrative support occupations,1,1.3061639582384783
+255,Postal service clerks,Office and administrative support occupations,2,1.320138357378272
+256,Postal service mail carriers,Office and administrative support occupations,1,1.2681264160839136
+257,"Postal service mail sorters, processors, and processing machine operators",Office and administrative support occupations,2,1.3759224312179068
+258,"Production, planning, and expediting clerks",Office and administrative support occupations,1,1.2784705535139924
+259,"Shipping, receiving, and inventory clerks",Office and administrative support occupations,0,1.3971909633445447
+260,Executive secretaries and executive administrative assistants,Office and administrative support occupations,1,1.12590934335253
+261,Medical secretaries and administrative assistants,Office and administrative support occupations,2,1.2804653620645219
+262,"Secretaries and administrative assistants, except legal, medical, and executive",Office and administrative support occupations,0,1.1941923468145836
+263,Data entry keyers,Office and administrative support occupations,1,1.3420995366816326
+264,Insurance claims and policy processing clerks,Office and administrative support occupations,1,1.3400457547993847
+265,"Mail clerks and mail machine operators, except postal service",Office and administrative support occupations,2,1.4203867485348014
+266,"Office clerks, general",Office and administrative support occupations,0,1.3284913203325326
+267,"Office and administrative support workers, all other",Office and administrative support occupations,0,1.3008709964785776
+268,"Graders and sorters, agricultural products","Farming, fishing, and forestry occupations",2,1.4833983696506716
+269,Miscellaneous agricultural workers,"Farming, fishing, and forestry occupations",0,1.2643046529007889
+270,Logging workers,"Farming, fishing, and forestry occupations",2,0.9673582102669654
+271,First-line supervisors of construction trades and extraction workers,Construction and extraction occupations,0,1.1730214965747736
+272,"Brickmasons, blockmasons, and stonemasons",Construction and extraction occupations,2,1.3131075881949006
+273,Carpenters,Construction and extraction occupations,0,1.2746204409625594
+274,"Carpet, floor, and tile installers and finishers",Construction and extraction occupations,1,1.257427749043411
+275,"Cement masons, concrete finishers, and terrazzo workers",Construction and extraction occupations,2,1.2579795408629646
+276,Construction laborers,Construction and extraction occupations,0,1.3285156592143177
+277,Construction equipment operators,Construction and extraction occupations,1,1.1630068883099434
+278,"Drywall installers, ceiling tile installers, and tapers",Construction and extraction occupations,2,1.195388621838133
+279,Electricians,Construction and extraction occupations,0,1.1998702423517584
+280,Glaziers,Construction and extraction occupations,2,1.2540343154458953
+281,Painters and paperhangers,Construction and extraction occupations,0,1.2582248400284652
+282,"Plumbers, pipefitters, and steamfitters",Construction and extraction occupations,0,1.2297818390689002
+283,Roofers,Construction and extraction occupations,1,1.2896160210859255
+284,Sheet metal workers,Construction and extraction occupations,2,1.1576167859004147
+285,"Helpers, construction trades",Construction and extraction occupations,2,1.3220779470276876
+286,Construction and building inspectors,Construction and extraction occupations,2,1.1248433872454378
+287,Highway maintenance workers,Construction and extraction occupations,2,1.184558364249168
+288,Other extraction workers,Construction and extraction occupations,2,1.3066044242838508
+289,"First-line supervisors of mechanics, installers, and repairers","Installation, maintenance, and repair occupations",1,1.0996496583194895
+290,"Computer, automated teller, and office machine repairers","Installation, maintenance, and repair occupations",1,1.3464429114008885
+291,Radio and telecommunications equipment installers and repairers,"Installation, maintenance, and repair occupations",1,1.2566683147698856
+292,Security and fire alarm systems installers,"Installation, maintenance, and repair occupations",2,1.2239327516192544
+293,Aircraft mechanics and service technicians,"Installation, maintenance, and repair occupations",2,1.1251450167251045
+294,Automotive body and related repairers,"Installation, maintenance, and repair occupations",2,1.2078866647154158
+295,Automotive service technicians and mechanics,"Installation, maintenance, and repair occupations",0,1.3024842518794153
+296,Bus and truck mechanics and diesel engine specialists,"Installation, maintenance, and repair occupations",1,1.2246811556560098
+297,Heavy vehicle and mobile equipment service technicians and mechanics,"Installation, maintenance, and repair occupations",1,1.1771763112714186
+298,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers","Installation, maintenance, and repair occupations",2,1.1667323443422697
+299,"Heating, air conditioning, and refrigeration mechanics and installers","Installation, maintenance, and repair occupations",1,1.2954679168976673
+300,Industrial and refractory machinery mechanics,"Installation, maintenance, and repair occupations",1,1.1874673174248718
+301,"Maintenance and repair workers, general","Installation, maintenance, and repair occupations",0,1.2393964712308623
+302,Electrical power-line installers and repairers,"Installation, maintenance, and repair occupations",2,1.1195667715018547
+303,Telecommunications line installers and repairers,"Installation, maintenance, and repair occupations",1,1.361619343332917
+304,Precision instrument and equipment repairers,"Installation, maintenance, and repair occupations",2,1.4127625595326223
+305,"Other installation, maintenance, and repair workers","Installation, maintenance, and repair occupations",1,1.2255548696310463
+306,First-line supervisors of production and operating workers,Production occupations,0,1.25523142340925
+307,"Electrical, electronics, and electromechanical assemblers",Production occupations,2,1.3778347180136967
+308,Other assemblers and fabricators,Production occupations,0,1.3951611221671747
+309,Bakers,Production occupations,1,1.3409559508364393
+310,"Butchers and other meat, poultry, and fish processing workers",Production occupations,1,1.4225699436004837
+311,Food batchmakers,Production occupations,2,1.285799687095552
+312,"Food processing workers, all other",Production occupations,1,1.4202106647894674
+313,Computer numerically controlled tool operators and programmers,Production occupations,2,1.1332228913946276
+314,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",Production occupations,2,1.132778635802742
+315,Machinists,Production occupations,1,1.1710759770290164
+316,"Welding, soldering, and brazing workers",Production occupations,0,1.2441152244424016
+317,Other metal workers and plastic workers,Production occupations,1,1.3877466086604726
+318,Printing press operators,Production occupations,1,1.3587760342608455
+319,Laundry and dry-cleaning workers,Production occupations,1,1.4957094744198052
+320,Sewing machine operators,Production occupations,2,1.3247743386585173
+321,"Tailors, dressmakers, and sewers",Production occupations,2,1.466268908528529
+322,Cabinetmakers and bench carpenters,Production occupations,2,1.0801299171788106
+323,Stationary engineers and boiler operators,Production occupations,2,1.3275779545358273
+324,Water and wastewater treatment plant and system operators,Production occupations,2,1.1227881430003193
+325,"Chemical processing machine setters, operators, and tenders",Production occupations,2,1.1519465029843021
+326,"Crushing, grinding, polishing, mixing, and blending workers",Production occupations,2,1.3185481141067914
+327,Cutting workers,Production occupations,2,1.3815254279462241
+328,"Inspectors, testers, sorters, samplers, and weighers",Production occupations,0,1.316925962367671
+329,Jewelers and precious stone and metal workers,Production occupations,2,1.3594718738636642
+330,Dental and ophthalmic laboratory technicians and medical appliance technicians,Production occupations,2,1.3426220907592104
+331,Packaging and filling machine operators and tenders,Production occupations,1,1.4903896813343933
+332,Painting workers,Production occupations,1,1.3233324812409313
+333,Helpers--production workers,Production occupations,2,1.3828685547298134
+334,Other production workers,Production occupations,0,1.3813272971073298
+335,Supervisors of transportation and material moving workers,Production occupations,1,1.3448276834872033
+336,Aircraft pilots and flight engineers,Transportation and material moving occupations,2,0.9695885682523087
+337,Flight attendants,Transportation and material moving occupations,2,1.284465042402607
+338,"Bus drivers, school",Transportation and material moving occupations,1,1.2245589255575773
+339,"Bus drivers, transit and intercity",Transportation and material moving occupations,1,1.3448629889411468
+340,Driver/sales workers and truck drivers,Transportation and material moving occupations,0,1.3553354584073398
+341,Shuttle drivers and chauffeurs,Transportation and material moving occupations,2,1.375077719838609
+342,Taxi drivers,Transportation and material moving occupations,1,1.518354796344676
+343,"Motor vehicle operators, all other",Transportation and material moving occupations,1,1.408887451581262
+344,Parking attendants,Transportation and material moving occupations,2,1.5006293874463026
+345,Transportation service attendants,Transportation and material moving occupations,2,1.364737872467939
+346,Crane and tower operators,Transportation and material moving occupations,2,1.1505187710815497
+347,Industrial truck and tractor operators,Transportation and material moving occupations,0,1.4119840799394399
+348,Cleaners of vehicles and equipment,Transportation and material moving occupations,1,1.3950916712354808
+349,"Laborers and freight, stock, and material movers, hand",Transportation and material moving occupations,0,1.3843332275078795
+350,"Packers and packagers, hand",Transportation and material moving occupations,0,1.4892513137277665
+351,Stockers and order fillers,Transportation and material moving occupations,0,1.378170055930052
+352,Refuse and recyclable material collectors,Transportation and material moving occupations,2,1.284225899084865
+353,Other material moving workers,Transportation and material moving occupations,2,1.3180120389765708
